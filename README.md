@@ -81,7 +81,7 @@ python reid_tracker.py
 
 ---
 
-## 🚀 Bonus Tips
+## Future Enhancement Can be made 
 
 - Reduce video resolution for faster processing
 - Upgrade ReID to OSNet or add Deep SORT for long videos
